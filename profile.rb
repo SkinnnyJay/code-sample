@@ -1,4 +1,4 @@
-class Profile < ActiveRecord::Base   
+class Profile < ActiveRecord::Base    
 
 def get_top_recipients
     puts "*"*50

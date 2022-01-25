@@ -1,4 +1,4 @@
-class Recipient  
+class Recipient   
 	attr_accessor :address, :count, :month
 
 	def initialize(address='', count=0, month=0)

@@ -1,4 +1,4 @@
-var createTopRecipients = function (data, html_element) { 
+var createTopRecipients = function (data, html_element) {  
   var runViz = function (data) {
 
 
